@@ -1,4 +1,4 @@
-// 20220224140057
+// 20220224143123
 // https://raw.githubusercontent.com/SimonRT/maps/main/RT.geojson
 
 {
@@ -499,8 +499,8 @@
     {
       "type": "Feature",
       "properties": {
-        "id": U30,
-        "unit": U30
+        "id": 30,
+        "unit": 30
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1967,8 +1967,8 @@
     {
       "type": "Feature",
       "properties": {
-        "id": U31,
-        "unit": U31
+        "id": 31,
+        "unit": 31
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3427,8 +3427,8 @@
     {
       "type": "Feature",
       "properties": {
-        "id": U32,
-        "unit": U32
+        "id": 32,
+        "unit": 32
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4895,8 +4895,8 @@
     {
       "type": "Feature",
       "properties": {
-        "id": U33,
-        "unit": U33
+        "id": 33,
+        "unit": 33
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6355,8 +6355,8 @@
     {
       "type": "Feature",
       "properties": {
-        "id": U34,
-        "unit": U34
+        "id": 34,
+        "unit": 34
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7823,8 +7823,8 @@
     {
       "type": "Feature",
       "properties": {
-        "id": U35,
-        "unit": U35
+        "id": 35,
+        "unit": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9355,8 +9355,8 @@
     {
       "type": "Feature",
       "properties": {
-        "id": U36,
-        "unit": U36
+        "id": 36,
+        "unit": 36
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10815,8 +10815,8 @@
     {
       "type": "Feature",
       "properties": {
-        "id": U37,
-        "unit": U37
+        "id": 37,
+        "unit": 37
       },
       "geometry": {
         "type": "MultiPolygon",
